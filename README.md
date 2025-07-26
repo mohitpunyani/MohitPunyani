@@ -51,8 +51,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitPunyani&layout=compact&theme=tokyonight" />
 </p>
 
-<!-- Snake Activity Tracker -->
-<h3 align="center">🐍 GitHub Activity Tracker</h3>
 
 <p align="center">
   <img src="https://github.com/MohitPunyani/MohitPunyani/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />

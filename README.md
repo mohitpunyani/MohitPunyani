@@ -1,6 +1,6 @@
-<h1 align="center">
+<h3 align="center">
   Welcome to my GitHub profile!<br>
-  I'm a passionate developer and problem-solver with deep interest in <strong>algorithms, full-stack development</strong>, and <strong>machine learning</strong>.
+
 </h1>
 <!-- Banner -->
 <p align="center">

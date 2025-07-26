@@ -1,27 +1,88 @@
-<h1>Hi , I'm Mohit Punyani </h1>
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Mohit%20Punyani!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
+<!-- Introduction -->
+<h2 align="center">🚀 Competitive Programmer | SDE @ Sarvika Technologies</h2>
 
-## 🌐 Socials:
+<p align="center">
+  Welcome to my GitHub profile!<br>
+  I'm a passionate developer and problem-solver with deep interest in <strong>algorithms, full-stack development</strong>, and <strong>machine learning</strong>.
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MohitPunyani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohitpunyani916@gmail.com) 
+<p align="center">
+  I thrive on challenges and love to write efficient, clean, and scalable code. 💻
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MohitPunyani&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MohitPunyani&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohitPunyani&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<!-- Badges -->
+<p align="center">
+  <a href="https://github.com/MohitPunyani">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MohitPunyani?label=Followers&style=social" />
+  </a>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MohitPunyani&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!-- Tech Stack -->
+<h3 align="center">🛠️ Tech Stack</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=keras&logoColor=white" />
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- GitHub Stats -->
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohitPunyani&show_icons=true&theme=tokyonight" />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MohitPunyani&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohitPunyani&theme=tokyonight" />
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=MohitPunyani&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitPunyani&layout=compact&theme=tokyonight" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Snake Activity Tracker -->
+<h3 align="center">🐍 GitHub Activity Tracker</h3>
+
+<p align="center">
+  <img src="https://github.com/MohitPunyani/MohitPunyani/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+</p>
+
+<!-- Quote -->
+<h3 align="center">💡 "Code is like poetry — it has to make sense and have rhythm."</h3>
+
+<!-- Social & CP Links -->
+<h3 align="center">🔗 Connect with Me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohitpunyani/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:moitpunyani916@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/mohit_punyani_1123">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/mohitpunyani916/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/mohitpunyani916/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-14B468?style=flat&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>

@@ -1,3 +1,7 @@
+<h1 align="center">
+  Welcome to my GitHub profile!<br>
+  I'm a passionate developer and problem-solver with deep interest in <strong>algorithms, full-stack development</strong>, and <strong>machine learning</strong>.
+</h1>
 <!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Mohit%20Punyani!&fontSize=40&fontColor=ffffff&animation=fadeIn" />

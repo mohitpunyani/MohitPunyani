@@ -1,10 +1,15 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Mohit+Punyani+%F0%9F%91%8B; SDE+at+Sarvika+Technologies;+Welcome+to+my+profile!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=435&lines=I'm+Mohit+Punyani+%F0%9F%91%8B;SDE+Sarvika+Technologies;+Welcome+to+my+profile!" alt="Typing SVG" />
 </p>
 
 <!-- Badges -->
 <p align="center">
+ <a href="https://www.linkedin.com/in/mohitpunyani916/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+  </a>
   <a href="https://punyani-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
@@ -19,9 +24,9 @@
 
 - 🧑‍💻 I'm Mohit Punyani — SDE at **Sarvika Technologies**  
 - 🔭 Currently exploring full-stack development, Machine Learning, and system design  
-- 🌱 Learning advanced React, Python, Java, and ML frameworks  
+- 🌱 Learning advanced React, Python, Java,  
 - 💻 Active on Codeforces, LeetCode, and GFG  
-- 📫 Reach me at: **mohitpunyani916@gmail.com**
+
 
 ---
 
@@ -55,16 +60,17 @@
 ### 🧠 Competitive Programming Profiles
 
 - 💻 [Codeforces](https://codeforces.com/profile/mohit_punyani_1123)
-- 📘 [GeeksforGeeks](https://www.geeksforgeeks.org/user/mohitpunyani916/)
 - 🧮 [LeetCode](https://leetcode.com/u/mohitpunyani916/)
+- 📘 [GeeksforGeeks](https://www.geeksforgeeks.org/user/mohitpunyani916/)
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/mohitpunyani916?theme=dark&ext=heatmap&font=baloo_2" />
-
+  <!-- Codeforces widgets -->
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=mohit_punyani_1123" />
   <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=mohit_punyani_1123" />
+
+  
+  <!-- LeetCode card -->
+  <img src="https://leetcard.jacoblin.cool/mohitpunyani916?theme=dark&ext=heatmap&font=baloo_2" />
 </p>
 
----
 
 

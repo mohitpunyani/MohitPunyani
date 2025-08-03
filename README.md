@@ -62,11 +62,11 @@
 - 📘 [GeeksforGeeks](https://www.geeksforgeeks.org/user/mohitpunyani916/)
 
   <!-- Codeforces widgets -->
+ 
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=mohit_punyani_1123" />
   <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=mohit_punyani_1123" />
-
-  
   <!-- LeetCode card -->
+  
   <img src="https://leetcard.jacoblin.cool/mohitpunyani916?theme=dark&ext=heatmap&font=baloo_2" />
 
 

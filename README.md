@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=435&lines=I'm+Mohit+Punyani+%F0%9F%91%8B;juniorSDE+IMG+GLOBAL;+Welcome+to+my+profile!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=435&lines=I'm+Mohit+Punyani+%F0%9F%91%8B;junior+SDE+IMG+GLOBAL;+Welcome+to+my+profile!" alt="Typing SVG" />
 </p>
 
 <!-- Badges -->

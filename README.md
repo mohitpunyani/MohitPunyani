@@ -21,8 +21,7 @@
 ---
 
 ### 👨‍💻 About Me
-
-- 🧑‍💻 I'm Mohit Punyani — SDE at **Sarvika Technologies**  
+- 🧑‍💻 I'm Mohit Punyani — Junior SDE at **IMG Global Infotech private limited**  
 - 🔭 Currently exploring full-stack development, Machine Learning, and system design  
 - 🌱 Learning advanced React, Python, Java,  
 - 💻 Active on Codeforces, LeetCode, and GFG  
